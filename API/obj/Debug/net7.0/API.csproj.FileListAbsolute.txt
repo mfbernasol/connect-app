@@ -69,3 +69,5 @@
 /Users/michaelbernasol/Documents/code/ConnectApp/API/bin/Debug/net7.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
 /Users/michaelbernasol/Documents/code/ConnectApp/API/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.dll
 /Users/michaelbernasol/Documents/code/ConnectApp/API/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/michaelbernasol/Documents/code/ConnectApp/API/bin/Debug/net7.0/Data/UserSeedData.json
+/Users/michaelbernasol/Documents/code/ConnectApp/API/bin/Debug/net7.0/AutoMapper.dll
