@@ -65,9 +65,12 @@
 /Users/michaelbernasol/Documents/code/ConnectApp/API/obj/Debug/net7.0/staticwebassets.build.json
 /Users/michaelbernasol/Documents/code/ConnectApp/API/obj/Debug/net7.0/staticwebassets.development.json
 /Users/michaelbernasol/Documents/code/ConnectApp/API/obj/Debug/net7.0/scopedcss/bundle/API.styles.css
-/Users/michaelbernasol/Documents/code/ConnectApp/API/obj/Debug/net7.0/API.csproj.CopyComplete
 /Users/michaelbernasol/Documents/code/ConnectApp/API/obj/Debug/net7.0/API.dll
 /Users/michaelbernasol/Documents/code/ConnectApp/API/obj/Debug/net7.0/refint/API.dll
 /Users/michaelbernasol/Documents/code/ConnectApp/API/obj/Debug/net7.0/API.pdb
 /Users/michaelbernasol/Documents/code/ConnectApp/API/obj/Debug/net7.0/API.genruntimeconfig.cache
 /Users/michaelbernasol/Documents/code/ConnectApp/API/obj/Debug/net7.0/ref/API.dll
+/Users/michaelbernasol/Documents/code/ConnectApp/API/bin/Debug/net7.0/CloudinaryDotNet.dll
+/Users/michaelbernasol/Documents/code/ConnectApp/API/bin/Debug/net7.0/Newtonsoft.Json.dll
+/Users/michaelbernasol/Documents/code/ConnectApp/API/obj/Debug/net7.0/API.sourcelink.json
+/Users/michaelbernasol/Documents/code/ConnectApp/API/obj/Debug/net7.0/API.csproj.Up2Date
